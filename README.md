@@ -1,1 +1,2 @@
-Testing Git pull function
+Testing Git pull function (From GitHub)
+Testing from Local
